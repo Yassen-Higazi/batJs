@@ -1,0 +1,23 @@
+{
+  "name": "batjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "bat.js",
+  "scripts": {
+    "build": "webpack --progress",
+    "watch": "webpack -wd --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yassen Higazi",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2016": "^6.24.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {}
+}
