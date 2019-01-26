@@ -5,4 +5,5 @@
 
   ## What did I learned from this??
     - a deeper understanding of How OOP works in javascript.
-    - some design patterns and how to implement them in javascript 
+    - some design patterns and how to implement them in javascript
+  **open [lib](lib/) for source code**
